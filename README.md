@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  Hello Devs! My name is Rodrigo<strong> i'm a Data Analyst</strong>.<br>
+  Hello Devs! My name is Rodrigo<strong> I'm a Data Analyst</strong>.<br>
   Currently studding at EBAC to improve my skills.
 </p>
 
@@ -25,4 +25,8 @@
   <a href="https://w.app/ZRhnEF" title="WhatsApp">
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP" alt="WhatsApp"/></a>
 </p>
+
+[![card](https://github-readme-stats.vercel.app/api?username=meepyss&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+
           
