@@ -2,7 +2,7 @@
 
 <p align="left"> 
   Hello Devs! My name is Rodrigo<strong> i'm a Data Analyst</strong>.<br>
-  Currently studying Python and SQL.
+  Currently studying Python and SQL at DataCamp.
 </p>
 
 <p align="left">
