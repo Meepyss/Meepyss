@@ -10,7 +10,7 @@
 </p>
 
 <p align="left">
-  💼 Ferramentas: Git and GitHub
+  💼 Ferramentas: Git and GitHub<br>
   <> HTML, CSS e JavaScript
 </p>
 
