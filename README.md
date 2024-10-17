@@ -1,8 +1,8 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  Hello Devs! My name is Rodrigo<strong> I'm Python developer</strong>.<br>
-  Currently studying Python and SQL at DataCamp.
+  Hello Devs! My name is Rodrigo<strong> I'm Full-Stack Developer</strong>.<br>
+  Currently studying JavaScript and SQL at Codeacademy.
 </p>
 
 <p align="left">
@@ -11,6 +11,7 @@
 
 <p align="left">
   💼 Ferramentas: Git and GitHub
+  <> HTML, CSS e JavaScript
 </p>
 
 <p align="left">
