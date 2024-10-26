@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  Hello Devs! My name is Rodrigo<strong> I'm Full-Stack Developer</strong>.<br>
+  Hello Devs! My name is Rodrigo<strong> I'm Full-Stack Developer(in progress )</strong>.<br>
   Currently studying JavaScript and SQL at Codeacademy.
 </p>
 
