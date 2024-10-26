@@ -6,12 +6,15 @@
 </p>
 
 <p align="left">
-  🦄 Python and SQL
+  🦄 Python, SQL, JavaScript,  Node.JS and React.
 </p>
 
 <p align="left">
-  💼 Ferramentas: Git and GitHub<br>
-  <> HTML, CSS e JavaScript
+  💼 Ferramentas: 
+  Git and GitHub<br>
+  VS Code<br>
+  Figma<br>
+  
 </p>
 
 <p align="left">
