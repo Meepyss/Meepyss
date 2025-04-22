@@ -1,32 +1,60 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-<p align="left"> 
-  Hello! My name is Rodrigo<strong> I'm Front-End Developer(in progress )</strong>.<br>
-  Currently studying JavaScript and SQL at Codeacademy.
-</p>
+# Olá, eu sou Rodrigo 👋
 
-<p align="left">
-  🦄 Python, SQL, JavaScript,  Node.JS and React.
-</p>
+**Analista de Dados | Desenvolvedor Python | CPA-20**
 
-<p align="left">
-  💼 Ferramentas: 
-  Git and GitHub<br>
-  VS Code<br>
-  Figma<br>
-  
-</p>
+Graduando em Ciências Contábeis com forte interesse em análise de dados, automações financeiras e soluções inteligentes que unem contabilidade, tecnologia e inovação.
 
-<p align="left">
-  💌 My Contacts: ⤵️
-</p>
+---
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/rodrigo-adriano-kreusch-239ab8213/" title="LinkedIn">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" alt="LinkedIn"/></a>
-  <a href="https://w.app/ZRhnEF" title="WhatsApp">
-  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP" alt="WhatsApp"/></a>
-</p>
+## 💻 Tecnologias & Ferramentas
+
+- **Linguagens:** Python | JavaScript | C
+- **Bibliotecas:** Pandas | NumPy | Streamlit
+- **Business Intelligence:** Power BI | Excel Avançado
+- **Banco de Dados:** PostgreSQL | SQLite | MongoDB
+- **Automação:** Web Scraping (Selenium, BeautifulSoup) | Twilio (WhatsApp)
+- **Infraestrutura:** Docker | AWS | VPS
+- **Front-End:** React (Vite) | Tailwind CSS
+- **Versionamento:** Git | GitHub Actions
+
+---
+
+## 📊 Projetos em Destaque
+
+### 🚀 Automação Contábil e Fiscal
+- Extração de informações fiscais (XML e PDF)
+- Cálculos automatizados de ICMS e DIFAL
+- Relatórios gerenciais com Python e Excel
+
+### 📈 Dashboard Power BI de Vendas
+- Modelagem dimensional (ETL, Python, DAX)
+- Visualizações avançadas para análise estratégica
+
+### 🤖 Chatbot Financeiro (WhatsApp)
+- Classificação de despesas via IA
+- Notificações automatizadas usando Twilio
+
+### 🌐 Web Scraping Avançado
+- Automação de coleta de documentos fiscais
+- Integração com APIs e serviços externos
+
+---
+
+## 📬 Vamos nos conectar?
+
+- 💼 [LinkedIn](https://linkedin.com/in/rodrigokreusch)
+- 🌐 [rodpixel.com](https://rodpixel.com)
+- 📧 rodrigo.kreusch@example.com
+
+---
+
+> Transformando números em decisões estratégicas através da tecnologia e inovação. 🚀
+
+**Obrigado pela visita!**
+
+
 
 [![card](https://github-readme-stats.vercel.app/api?username=meepyss&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
