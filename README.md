@@ -10,10 +10,9 @@ Graduando em Ciências Contábeis com forte interesse em análise de dados, auto
 
 ## 💻 Tecnologias & Ferramentas
 
-- **Linguagens:** Python 
-- **Bibliotecas:** Pandas | NumPy | Streamlit
+- **Linguagens:** Python e SQL
+- **Bibliotecas:** Pandas | NumPy 
 - **Business Intelligence:** Power BI | Excel Avançado
-- **Infraestrutura:** Docker | AWS | VPS
 - **Front-End:** HTML | CSS |
 - **Versionamento:** Git | GitHub Actions
 
