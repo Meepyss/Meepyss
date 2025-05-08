@@ -14,7 +14,7 @@ Graduando em Ciências Contábeis com forte interesse em análise de dados, auto
 - **Bibliotecas:** Pandas | NumPy 
 - **Business Intelligence:** Power BI | Excel Avançado
 - **Front-End:** HTML | CSS |
-- **Versionamento:** Git | GitHub Actions
+- **Versionamento:** Git 
 
 ---
 
