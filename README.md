@@ -2,7 +2,7 @@
 
 # Olá, eu sou Rodrigo 👋
 
-**Analista de Dados | Desenvolvedor Python | CPA-20**
+**Analista de Dados | Desenvolvedor BI 
 
 Graduando em Ciências Contábeis com forte interesse em análise de dados, automações e soluções inteligentes que unem contabilidade, tecnologia e inovação.
 
@@ -10,11 +10,9 @@ Graduando em Ciências Contábeis com forte interesse em análise de dados, auto
 
 ## 💻 Tecnologias & Ferramentas
 
-- **Linguagens:** Python e SQL
+- **Linguagens:** Python, SQL e DAX
 - **Bibliotecas:** Pandas | NumPy 
-- **Business Intelligence:** Power BI | Excel Avançado
-- **Front-End:** HTML | CSS |
-- **Versionamento:** Git 
+- **Business Intelligence:** Power BI | Excel | Power Query
 
 ---
 
