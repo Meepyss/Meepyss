@@ -2,7 +2,7 @@
 
 # Olá, eu sou Rodrigo 👋
 
-**Analista de Dados | Desenvolvedor BI 
+**Analista de Dados | Desenvolvedor BI **
 
 Graduando em Ciências Contábeis com forte interesse em análise de dados, automações e soluções inteligentes que unem contabilidade, tecnologia e inovação.
 
