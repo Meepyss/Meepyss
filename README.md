@@ -29,7 +29,6 @@ Profissional de dados com foco em solucionar problemas de negócio voltado a esc
 
 
 
-[![card](https://github-readme-stats.vercel.app/api?username=meepyss&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
           
