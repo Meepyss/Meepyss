@@ -2,26 +2,16 @@
 
 # Olá, eu sou Rodrigo 👋
 
-## Analista de Dados | Desenvolvedor BI ##
+## Engenheiro de Dados | Analista de BI ##
 
-Graduando em Ciências Contábeis com forte interesse em análise de dados, automações e soluções inteligentes que unem contabilidade, tecnologia e inovação.
+Profissional de dados com foco em solucionar problemas de negócio voltado a escalabilidade, performance e armazenamento de dados.
 
 ---
 
 ## 💻 Tecnologias & Ferramentas
 
-- **Linguagens:** Python, SQL e DAX
-- **Bibliotecas:** Pandas | NumPy 
-- **Business Intelligence:** Power BI | Excel | Power Query
-
----
-
-## 📊 Projetos em Destaque
-
-### 📈 Dashboard Power BI de Vendas
-- Modelagem dimensional (ETL, Python, DAX)
-- Visualizações avançadas para análise estratégica
-
+- **Linguagens:** Python e SQL
+- **Tecnologias:** Google Storage | MongoDB | Postgres | BigQuery | Cloud Run | Docker
 
 ---
 
