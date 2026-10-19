@@ -18,7 +18,7 @@ Antes de entrar em dados, passei mais de 4 anos na rotina fiscal e contábil (ap
 
 ---
 
-## 🧰 Stack
+## Stack
 
 **Linguagens:**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -45,7 +45,7 @@ Antes de entrar em dados, passei mais de 4 anos na rotina fiscal e contábil (ap
 
 ---
 
-## 🏗️ Arquitetura que eu construo
+## Arquitetura que eu construo
 
 Padrão medalhão em ELT dentro do GCP:
 
@@ -60,7 +60,7 @@ flowchart LR
 
 ---
 
-## 🚀 Resultados em destaque
+## Resultados em destaque
 
 - **Lakehouse do zero** com extração completa via API do Gclick, viabilizando a comercialização de um novo produto estratégico na empresa.
 - **-80% no tempo de extração** ao substituir o consumo direto de APIs no Power BI por pipelines containerizados no Cloud Run, eliminando também falhas de consistência.
@@ -71,7 +71,7 @@ flowchart LR
 
 ---
 
-## 💼 Trajetória
+## Trajetória
 
 | Período | Onde | Papel |
 |---|---|---|
@@ -79,12 +79,12 @@ flowchart LR
 | 06/2025 → 11/2025 | **EVNE Tecnologia** | Analista de BI |
 | 2021 → 2024 | Escritórios de contabilidade | Auxiliar Fiscal/Contábil (automação em Python e Golang) |
 
-🎓 Bacharel em Ciências Contábeis · Unidavi
-📜 Modelagem de Dados Essencial · Python Data Structures · EF SET English C1 Advanced (61/100)
+Bacharel em Ciências Contábeis · Unidavi
+Modelagem de Dados Essencial · Python Data Structures · EF SET English C1 Advanced (61/100)
 
 ---
 
-## 📌 Projetos públicos
+## Projetos públicos
 
 <!-- Fixe 3 a 6 repositórios no perfil e liste aqui. Sugestão: projetos pessoais com dados públicos que reproduzam sua arquitetura, já que o trabalho em empresa é confidencial. -->
 
