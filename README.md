@@ -1,4 +1,4 @@
-<h1 align="center">Rodrigo Kreusch</h1>
+<h1 align="center">Rodrigo Adriano Kreusch</h1>
 <h3 align="center">Analytics Engineer · BI & Data Engineering</h3>
 
 <p align="center">
