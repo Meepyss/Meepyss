@@ -66,32 +66,12 @@ flowchart LR
 - **-80% no tempo de extração** ao substituir o consumo direto de APIs no Power BI por pipelines containerizados no Cloud Run, eliminando também falhas de consistência.
 - **Integrações com vários sistemas** (Gclick, Acessórias, Omie, Nibu, Movidesk) dentro de uma mesma arquitetura reaproveitável.
 - **Novo produto de inteligência comercial** para varejo e indústria, incorporado como produto padrão do segmento.
-- **Dashboards de alta performance** com DAX avançado, Star Schema e refresh incremental para grandes volumes (EVNE).
+- **Dashboards de alta performance** com DAX avançado, Star Schema e refresh incremental para grandes volumes.
 - **Prototipação rápida no Figma** para validar layout e funcionalidade com o cliente antes do desenvolvimento.
 
 ---
 
-## Trajetória
 
-| Período | Onde | Papel |
-|---|---|---|
-| 12/2025 → hoje | **Genial Dash** | Analytics Engineer · BI & Data Engineering |
-| 06/2025 → 11/2025 | **EVNE Tecnologia** | Analista de BI |
-| 2021 → 2024 | Escritórios de contabilidade | Auxiliar Fiscal/Contábil (automação em Python e Golang) |
-
-Bacharel em Ciências Contábeis · Unidavi
-Modelagem de Dados Essencial · Python Data Structures · EF SET English C1 Advanced (61/100)
-
----
-
-## Projetos públicos
-
-<!-- Fixe 3 a 6 repositórios no perfil e liste aqui. Sugestão: projetos pessoais com dados públicos que reproduzam sua arquitetura, já que o trabalho em empresa é confidencial. -->
-
-- **[nome-do-projeto]**: pipeline Python → Parquet → BigQuery em arquitetura medalhão.
-- **[nome-do-projeto]**: modelo dimensional e dashboard de exemplo.
-
----
 
 ## 📬 Contato
 
